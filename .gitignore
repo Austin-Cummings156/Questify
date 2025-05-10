@@ -1,0 +1,10 @@
+.venv/              # Virtual environment
+.env                # API keys
+__pycache__/        # Compiled Python files
+*.pyc               # Compiled Python files
+*.pyo               # Optimized Python files
+.idea/              # PyCharm config files
+*.db                # SQLite database
+dist/               # PyInstaller output
+build/              # PyInstaller build files
+*.spec              # PyInstaller spec files
