@@ -8,3 +8,4 @@ __pycache__/        # Compiled Python files
 dist/               # PyInstaller output
 build/              # PyInstaller build files
 *.spec              # PyInstaller spec files
+/data/questify.db   # User specific database information
